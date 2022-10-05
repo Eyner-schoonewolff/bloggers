@@ -1,5 +1,18 @@
 body{
     text-align: center;
     font-family: "Arial";
-    color: slateblue;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+
+#container{
+    width: 70%;
+    padding: 1rem;
+    text-align: left;
+    border: 1px solid black;
+    margin:  auto;
+}
+
+#container h1{
+    font-size: 20px;
 }
