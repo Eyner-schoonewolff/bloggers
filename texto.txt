@@ -1,9 +1,5 @@
 esta es mi historia mi nombre es Eyner 
 
-naci en Colombia y le ecribire hola 
+naci en Colombia y le ecribire 
 
-un poco acerca de mi
-
-estas son nuevas lineas de code
-
-para aprender git debemos practicar, comenzamos nuevas rutas y nuevas maestrias supremas.
+un poco acerca de mi les contare ademas sobre mi vida como estudiante
